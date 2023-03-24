@@ -4,8 +4,8 @@
 struct Employee
 {
     int id;
-    float salary;
     char name[50];
+    float salary;
 };
 
 int main()
